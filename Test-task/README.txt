@@ -1,0 +1,1 @@
+ConsoleApp1 special for testing library
