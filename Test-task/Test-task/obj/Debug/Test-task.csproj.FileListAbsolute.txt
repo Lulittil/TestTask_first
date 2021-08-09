@@ -1,0 +1,6 @@
+C:\Users\forwo\Desktop\Vacant\Test-task\Test-task\bin\Debug\Test-task.dll
+C:\Users\forwo\Desktop\Vacant\Test-task\Test-task\bin\Debug\Test-task.pdb
+C:\Users\forwo\Desktop\Vacant\Test-task\Test-task\obj\Debug\Test-task.csproj.CoreCompileInputs.cache
+C:\Users\forwo\Desktop\Vacant\Test-task\Test-task\obj\Debug\Test-task.dll
+C:\Users\forwo\Desktop\Vacant\Test-task\Test-task\obj\Debug\Test-task.pdb
+C:\Users\forwo\Desktop\Vacant\Test-task\Test-task\obj\Debug\Test-task.csprojAssemblyReference.cache
